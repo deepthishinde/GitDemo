@@ -10,11 +10,14 @@ public class day2 {
 	public void ploan()
 	{
 		System.out.println("good");
+		System.out.println("Marvel");
+		System.out.println("Good day");
 	}
 	
 	@BeforeTest
 	public void prerequiste()
 	{
 		System.out.println("I will execute first");
+		System.out.println("Easy");
 	}
 }
