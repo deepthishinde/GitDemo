@@ -23,7 +23,7 @@ public class Listeners implements ITestListener {
 		//screenshot code 
 		//response if API is failed
 		
-		System.out.println("I failed executed Listeners Pass code" +result.getName());
+		System.out.println("I failed to executed Listeners Pass code" +result.getName());
 
 	}
 
